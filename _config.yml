@@ -15,10 +15,10 @@ keywords: ityouknow,纯洁的微笑,Spring,Spring Boot,Spring Cloud,MongoDB,Jvm,
 encoding: "utf-8"
 favicon: favicon.ico 
 
-repository: xiaowu/xiaowu.github.io
-github_url: https://github.com/xiaowu
-url: http://www.xiaowu.com
-enforce_ssl: xiaowu.com
+repository: 326095983/326095983.github.io
+github_url: https://github.com/326095983
+url: http://www.326095983.com
+enforce_ssl: 326095983.com
 
 ## Gem
 plugins:
